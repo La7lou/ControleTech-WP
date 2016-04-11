@@ -10,7 +10,7 @@
  *
  * @package materialwp
  */
-echo "test_clone";
+/*echo "test_clone";*/
 get_header(); ?>
 
 <div class="container">
