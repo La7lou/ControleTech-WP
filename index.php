@@ -10,7 +10,7 @@
  *
  * @package materialwp
  */
-
+echo "test_clone";
 get_header(); ?>
 
 <div class="container">
@@ -33,6 +33,7 @@ get_header(); ?>
 					?>
 
 				<?php endwhile; ?>
+
 
 				<?php materialwp_paging_nav(); ?>
 
